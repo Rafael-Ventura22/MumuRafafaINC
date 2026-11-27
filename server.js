@@ -72,6 +72,7 @@ e o que aprenderam durante o desenvolvimento.
 <li>Robô seguidor de linha</li>
 <li>Casa inteligente</li>
 <li>Horta automatizada</li>
+<li>IA interprete de Libras</li>
 </ul>
 
 <h2>Contato</h2>
